@@ -1,0 +1,15 @@
+accelerate
+bitsandbytes
+chromadb
+datasets
+langchain
+langchain-community
+matplotlib
+numpy
+pandas
+peft
+scikit-learn
+sentence-transformers
+torch
+transformers
+jupyter
