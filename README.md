@@ -24,6 +24,7 @@ controlled customer-support response generation.
 
 ## Architecture
 
+![Hybrid RAG Architecture](assets/architecture.png)
 The system combines fine-tuned intent extraction with semantic retrieval
 from a policy knowledge base before generating the final customer-support
 response.
